@@ -46,8 +46,8 @@ Provide a link to the live demo of the project or screenshots to showcase its ap
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Bexst24/Interior_Labs.git```
-
+git clone https://github.com/Bexst24/Interior_Labs.git
+```
 
 ## Usage
 
