@@ -1,9 +1,9 @@
 # Interior Labs Landing Page
 
+Welcome to the Interior Labs Landing Page repository! This project showcases a stylish and modern landing page for an interior design company.
+
 ![Interior Labs](images/interiorlabs.png)
 
-
-Welcome to the Interior Labs Landing Page repository! This project showcases a stylish and modern landing page for an interior design company.
 
 ## Table of Contents
 
