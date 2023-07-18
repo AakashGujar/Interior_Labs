@@ -21,7 +21,8 @@ Interior Labs Landing Page is a project created to demonstrate HTML, CSS, and Ja
 
 ## Demo
 
-Provide a link to the live demo of the project or screenshots to showcase its appearance.
+![image](https://github.com/Bexst24/Interior_Labs/assets/109903705/d8eb9cd8-9899-4d73-97b9-43b69e49ce6a)
+
 
 ## Technologies Used
 
